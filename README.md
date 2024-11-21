@@ -22,3 +22,7 @@ Create Location feature
                             
 Dashboard 
 ![image](https://github.com/user-attachments/assets/f8bea51e-6686-4325-a628-7b3f59ed44d5)
+
+Create Berita
+![image](https://github.com/user-attachments/assets/f8a86308-8846-4858-8797-3d9bfbac260f)
+
