@@ -9,6 +9,8 @@ Creator Eric Cen
 4.	Create Serial Number / Asset Number
 5.	Create asset location
 
+- Prototypes
+  
 Create TTG feature
 ![image](https://github.com/user-attachments/assets/8028b4d3-65a5-478e-8a8e-f431f9d21960)
                             
@@ -18,3 +20,5 @@ Create TTG feature
 Create Location feature
 ![image](https://github.com/user-attachments/assets/0f9e258e-35b8-4028-8f0e-55aed888c670)
                             
+Dashboard 
+![image](https://github.com/user-attachments/assets/f8bea51e-6686-4325-a628-7b3f59ed44d5)
