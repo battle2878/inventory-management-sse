@@ -9,6 +9,11 @@ Creator Eric Cen
 4.	Create Serial Number / Asset Number
 5.	Create asset location
 
+- System Architecture
+![Inventory Management Architecture]
+(https://github.com/user-attachments/assets/6895f832-c9ee-46b0-8c67-a6dc2cb9236f)
+
+  
 - Prototypes
   
 Create TTG feature
